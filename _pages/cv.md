@@ -11,35 +11,76 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Computer Science, University of Waterloo, 2026 (expected)
+* B.C.S. in Computer Science, University of Waterloo, 2021
 
-Work experience
+Work Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Spring 2026: Instructor
+  * WatSPEED
+  * Duties includes: Delivered live and digital course content, facilitated technical orientation and Q&A sessions, moderated discussion forums, and ensured high student satisfaction
+  * Supervisor: WatSPEED
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Winter 2025: Course Supporter
+  * WatSPEED
+  * Duties includes: Graded assessments and provided individualized feedback to learners
+  * Supervisor: WatSPEED
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Fall 2022: Teaching/Instructional Assistant
+  * University of Waterloo
+  * Duties includes: Held office hours, answered student questions, and marked assignments for Computer Science courses
+  * Supervisor: University of Waterloo
+
+* Summer 2022: Software Developer
+  * Magnet Forensics
+  * Duties includes: Improved cloud build stability, upgradeability, and scalability using infrastructure as code and Docker container management
+  * Supervisor: Magnet Forensics
+
+* Spring 2021: Software Developer
+  * Ubisoft
+  * Duties includes: Conducted R&D for a performance capture tool; developed, tested, and peer-reviewed code in C#.NET/XAML and Python
+  * Supervisor: Ubisoft
+
+* Spring 2020: Software Developer
+  * Oracle Corporation
+  * Duties includes: Designed and built features for new and legacy Java software and conducted unit testing using JUnit
+  * Supervisor: Oracle Corporation
+
+* Summer 2019: Software Tools & Infrastructure Developer
+  * Christie Digital Systems
+  * Duties includes: Re-architected engineering infrastructure into a distributed, parallel compute cluster and containerized builds for projectors
+  * Supervisor: Christie Digital Systems
+
+* Fall 2018: Application Developer
+  * Sun Life Financial
+  * Duties includes: Automated server deployment, developed SQL Stored Procedures, and created C#.NET applications for monitoring and issue resolution
+  * Supervisor: Sun Life Financial
+
+* Winter 2018: Distributed Developer
+  * Sun Life Financial
+  * Duties includes: Maintained web-based applications using Visual Basic scripts and maintained databases using SQL, T-SQL, and VBA
+  * Supervisor: Sun Life Financial
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+### Technical Skills
+* **Languages:** Python, C, C++, SQL, T-SQL, VBA, Visual Basic
+* **Data & AI:** Digital Image Processing, Ethics of Generative AI, Big Data
+* **Infrastructure & DevOps:** Infrastructure-as-Code, Docker, Container Management, Cloud Scalability, Parallel Compute Clusters, Server Deployment, Git/GitHub
+* **Software Tools:** Unity (Performance Capture), JUnit (Unit Testing), Profilers, Fuzzing, Penetration Testing
+
+### Design & UX Skills
+* **Interaction Design:** UX Research, Mobile & Web Design, Interdisciplinary Design, Human-Computer Interaction (HCI)
+* **Design Ethics:** Algorithmic Bias Assessment (Gender Bias in Media), Responsible AI Implementation
+
+### Academic & Instructional Skills
+* **Instructional Design:** Facilitating Technical Orientations, Curriculum Delivery, Adult Learning Support
+* **Academic Leadership:** Program Committee Service (ACM ISS 2025), Peer-Review, Research Dissemination
+* **Public Engagement:** Science Communication, Media Relations (CTV News, Radio)
+
+### Professional & Soft Skills
+* **Communication:** Technical Writing, Mentorship, Individualized Feedback, Discussion Moderation
+* **Project Management:** External Client Coordination, R&D Management, Team Peer-Review
 
 Publications
 ======
@@ -59,6 +100,5 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+<!-- Service and leadership
+====== -->
