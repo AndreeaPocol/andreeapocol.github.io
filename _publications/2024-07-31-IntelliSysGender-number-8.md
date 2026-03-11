@@ -1,6 +1,7 @@
 ---
 title: "An Evaluation of Gender Bias in 167K Movie Posters"
 collection: publications
+category: conferences
 permalink: /publication/2024-07-31-IntelliSysGender-number-8
 date: 2024-07-31
 venue: 'Intelligent Systems and Applications (Springer Nature Switzerland)'
