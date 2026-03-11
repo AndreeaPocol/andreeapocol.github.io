@@ -19,47 +19,47 @@ Work Experience
 * Spring 2026: Instructor
   * WatSPEED
   * Duties includes: Delivered live and digital course content, facilitated technical orientation and Q&A sessions, moderated discussion forums, and ensured high student satisfaction
-  * Supervisor: WatSPEED
+  * Employer: WatSPEED
 
 * Winter 2025: Course Supporter
   * WatSPEED
   * Duties includes: Graded assessments and provided individualized feedback to learners
-  * Supervisor: WatSPEED
+  * Employer: WatSPEED
 
 * Fall 2022: Teaching/Instructional Assistant
   * University of Waterloo
   * Duties includes: Held office hours, answered student questions, and marked assignments for Computer Science courses
-  * Supervisor: University of Waterloo
+  * Employer: University of Waterloo
 
 * Summer 2022: Software Developer
   * Magnet Forensics
   * Duties includes: Improved cloud build stability, upgradeability, and scalability using infrastructure as code and Docker container management
-  * Supervisor: Magnet Forensics
+  * Employer: Magnet Forensics
 
 * Spring 2021: Software Developer
   * Ubisoft
   * Duties includes: Conducted R&D for a performance capture tool; developed, tested, and peer-reviewed code in C#.NET/XAML and Python
-  * Supervisor: Ubisoft
+  * Employer: Ubisoft
 
 * Spring 2020: Software Developer
   * Oracle Corporation
   * Duties includes: Designed and built features for new and legacy Java software and conducted unit testing using JUnit
-  * Supervisor: Oracle Corporation
+  * Employer: Oracle Corporation
 
 * Summer 2019: Software Tools & Infrastructure Developer
   * Christie Digital Systems
   * Duties includes: Re-architected engineering infrastructure into a distributed, parallel compute cluster and containerized builds for projectors
-  * Supervisor: Christie Digital Systems
+  * Employer: Christie Digital Systems
 
 * Fall 2018: Application Developer
   * Sun Life Financial
   * Duties includes: Automated server deployment, developed SQL Stored Procedures, and created C#.NET applications for monitoring and issue resolution
-  * Supervisor: Sun Life Financial
+  * Employer: Sun Life Financial
 
 * Winter 2018: Distributed Developer
   * Sun Life Financial
   * Duties includes: Maintained web-based applications using Visual Basic scripts and maintained databases using SQL, T-SQL, and VBA
-  * Supervisor: Sun Life Financial
+  * Employer: Sun Life Financial
   
 Skills
 ======
@@ -94,11 +94,11 @@ Talks
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
-Teaching
+<!-- Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
 <!-- Service and leadership
 ====== -->
