@@ -17,49 +17,40 @@ Education
 Work Experience
 ======
 * Spring 2026: Instructor
-  * WatSPEED
-  * Duties includes: Delivered live and digital course content, facilitated technical orientation and Q&A sessions, moderated discussion forums, and ensured high student satisfaction
   * Employer: WatSPEED
+  * Duties: Delivered live and digital course content, facilitated technical orientation and Q&A sessions, moderated discussion forums, and ensured high student satisfaction
 
 * Winter 2025: Course Supporter
-  * WatSPEED
-  * Duties includes: Graded assessments and provided individualized feedback to learners
   * Employer: WatSPEED
+  * Duties: Graded assessments and provided individualized feedback to learners
 
-* Fall 2022: Teaching/Instructional Assistant
-  * University of Waterloo
-  * Duties includes: Held office hours, answered student questions, and marked assignments for Computer Science courses
+* Fall 2022-Spring 2026: Teaching/Instructional Assistant
   * Employer: University of Waterloo
+  * Duties: Held office hours, answered student questions, and marked assignments for Computer Science courses
 
 * Summer 2022: Software Developer
-  * Magnet Forensics
-  * Duties includes: Improved cloud build stability, upgradeability, and scalability using infrastructure as code and Docker container management
   * Employer: Magnet Forensics
+  * Duties: Improved cloud build stability, upgradeability, and scalability using infrastructure as code and Docker container management
 
 * Spring 2021: Software Developer
-  * Ubisoft
-  * Duties includes: Conducted R&D for a performance capture tool; developed, tested, and peer-reviewed code in C#.NET/XAML and Python
   * Employer: Ubisoft
+  * Duties: Conducted R&D for a performance capture tool; developed, tested, and peer-reviewed code in C#.NET/XAML and Python
 
 * Spring 2020: Software Developer
-  * Oracle Corporation
-  * Duties includes: Designed and built features for new and legacy Java software and conducted unit testing using JUnit
   * Employer: Oracle Corporation
+  * Duties: Designed and built features for new and legacy Java software and conducted unit testing using JUnit
 
 * Summer 2019: Software Tools & Infrastructure Developer
-  * Christie Digital Systems
-  * Duties includes: Re-architected engineering infrastructure into a distributed, parallel compute cluster and containerized builds for projectors
   * Employer: Christie Digital Systems
+  * Duties: Re-architected engineering infrastructure into a distributed, parallel compute cluster and containerized builds for projectors
 
 * Fall 2018: Application Developer
-  * Sun Life Financial
-  * Duties includes: Automated server deployment, developed SQL Stored Procedures, and created C#.NET applications for monitoring and issue resolution
   * Employer: Sun Life Financial
+  * Duties: Automated server deployment, developed SQL Stored Procedures, and created C#.NET applications for monitoring and issue resolution
 
 * Winter 2018: Distributed Developer
-  * Sun Life Financial
-  * Duties includes: Maintained web-based applications using Visual Basic scripts and maintained databases using SQL, T-SQL, and VBA
   * Employer: Sun Life Financial
+  * Duties: Maintained web-based applications using Visual Basic scripts and maintained databases using SQL, T-SQL, and VBA
   
 Skills
 ======
