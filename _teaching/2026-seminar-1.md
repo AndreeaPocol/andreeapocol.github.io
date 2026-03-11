@@ -1,0 +1,20 @@
+---
+title: "Teaching experience 1"
+collection: teaching
+type: "Seminar"
+permalink: /teaching/2026-seminar-1
+venue: "Zoom"
+date: 2026-01-23
+location: "Online"
+---
+
+
+Seminar: Computational Methods for Colour Palette Comparison
+======
+<div class="video-container">
+  <iframe src="https://www.youtube.com/embed/cmcG3J15AGM" 
+          frameborder="0" 
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+          allowfullscreen>
+  </iframe>
+</div>
