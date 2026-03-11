@@ -22,7 +22,7 @@ My thesis research aims to analyze the use of colour in film. I am particularly 
 ---
 
 ### Recent Publications
-{% assign sorted_pubs = site.publications | sort: 'date' | reversed %}
-{% for post in sorted_pubs limit:3 %}
-  * [{{ post.title }}]({{ post.url }}) - {{ post.date | date: "%Y" }}
+{% assign all_recent_pubs = site.publications | sort: "date" | reversed %}
+{% for post in all_recent_pubs limit:3 %}
+  * **[{{ post.title }}]({{ post.url }})** *{{ post.venue }}*, {{ post.date | date: "%B %Y" }}
 {% endfor %}
