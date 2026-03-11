@@ -1,7 +1,7 @@
 ---
 title: "The Colour of Horror"
 collection: publications
-permalink: /publication/2022-CVMP
+permalink: /publication/2022-01-01-CVMP-number-4
 date: 2022-01-01
 venue: 'ACM SIGGRAPH European Conference on Visual Media Production (CVMP)'
 paperurl: 'https://doi.org/10.1145/3565516.3565523'
