@@ -1,3 +1,10 @@
+---
+layout: single
+title: "Andreea Pocol"
+excerpt: "Academic Portfolio"
+permalink: /
+author_profile: true
+---
 
 # Welcome
 
