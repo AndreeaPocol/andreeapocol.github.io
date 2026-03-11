@@ -1,20 +1,16 @@
 ---
 title: "Teaching experience 2"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+type: "Seminar"
+permalink: /teaching/2026-seminar-1
+venue: "Zoom"
+date: 2026-02-19
+location: "Online"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
 
-Heading 1
+Seminar 2: Computational Methods for Colour Palette Generation and the Psychophysiological Impact Thereof
 ======
-
-Heading 2
-======
-
-Heading 3
-======
+<div class="video-container">
+  <iframe src="https://www.youtube.com/embed/YOUR_VIDEO_ID" allowfullscreen></iframe>
+</div>
