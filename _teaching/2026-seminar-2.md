@@ -2,7 +2,7 @@
 title: "Teaching experience 2"
 collection: teaching
 type: "Seminar"
-permalink: /teaching/2026-seminar-1
+permalink: /teaching/2026-seminar-2
 venue: "Zoom"
 date: 2026-02-19
 location: "Online"
