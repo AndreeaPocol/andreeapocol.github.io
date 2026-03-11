@@ -1,6 +1,7 @@
 ---
 title: "Evaluating Gender Bias in Film Dialogue"
 collection: publications
+category: books
 permalink: /publication/2022-06-13-NLDB-number-2
 date: 2022-06-13
 venue: '27th International Conference on Applications of Natural Language to Information Systems (NLDB)'
