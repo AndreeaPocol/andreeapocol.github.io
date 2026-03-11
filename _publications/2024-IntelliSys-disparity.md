@@ -1,7 +1,7 @@
 ---
 title: "Evaluating and Improving Disparity Maps Without Ground Truth"
 collection: publications
-permalink: /publication/2024-evaluating-disparity
+permalink: /publication/2024-IntelliSys-disparity
 date: 2024-01-01
 venue: 'Intelligent Systems and Applications (Springer Nature Switzerland)'
 paperurl: 'https://doi.org/10.1007/978-3-031-66329-1_12'
