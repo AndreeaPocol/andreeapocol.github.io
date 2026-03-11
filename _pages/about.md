@@ -22,8 +22,6 @@ My thesis research aims to analyze the use of colour in film. I am particularly 
 ---
 
 ### Recent Publications
-*(Automatically populated from your publications collection)*
-
-{% for post in site.publications limit:3 %}
+{% for post in site.publications reversed limit:3 %}
   * [{{ post.title }}]({{ post.url }}) - {{ post.date | date: "%Y" }}
 {% endfor %}
