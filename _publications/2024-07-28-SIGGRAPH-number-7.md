@@ -1,6 +1,7 @@
 ---
 title: "Interactive Colour Palette Generation from Videos"
 collection: publications
+category: conferences
 permalink: /publication/2024-07-28-SIGGRAPH-number-7
 date: 2024-07-28
 venue: 'SIGGRAPH 2024 Poster'
