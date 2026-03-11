@@ -22,6 +22,7 @@ My thesis research aims to analyze the use of colour in film. I am particularly 
 ---
 
 ### Recent Publications
-{% for post in site.publications reversed limit:3 %}
+{% assign sorted_pubs = site.publications | sort: 'date' | reversed %}
+{% for post in sorted_pubs limit:3 %}
   * [{{ post.title }}]({{ post.url }}) - {{ post.date | date: "%Y" }}
 {% endfor %}
