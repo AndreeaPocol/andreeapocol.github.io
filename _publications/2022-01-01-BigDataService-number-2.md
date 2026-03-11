@@ -1,7 +1,7 @@
 ---
 title: "Assessing the Impact of Movie Plot Summaries on Box Office Sales"
 collection: publications
-permalink: /publication/2022-BigDataService
+permalink: /publication/2022-01-01-BigDataService-number-2
 date: 2022-01-01
 venue: 'IEEE Eighth International Conference on Big Data Computing Service and Applications'
 paperurl: 'https://doi.org/10.1109/BigDataService55688.2022.00015'
