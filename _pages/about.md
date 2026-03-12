@@ -30,6 +30,8 @@ My thesis research aims to analyze the use of colour in film. I am particularly 
 ---
 
 ### Resume
+As I approach the completion of my Ph.D., I am actively seeking academic faculty positions or industrial research roles!
+
 <div style="text-align: center; margin-top: 20px;">
   <iframe src="{{ site.baseurl }}/files/ANDREEA_POCOL_RESUME.pdf" 
           width="100%" 
