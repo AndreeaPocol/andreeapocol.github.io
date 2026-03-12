@@ -27,7 +27,7 @@ My thesis research aims to analyze the use of colour in film. I am particularly 
   * **[{{ post.title }}]({{ post.url }})** *{{ post.venue }}*, {{ post.date | date: "%B %Y" }}
 {% endfor %}
 
-### Resumé
+<!-- ### Resume
 <div style="text-align: center; margin-top: 20px;">
   <iframe src="{{ site.baseurl }}/assets/files/ANDREEA_POCOL_RESUME.pdf" 
           width="100%" 
@@ -35,4 +35,4 @@ My thesis research aims to analyze the use of colour in film. I am particularly 
           style="border: none;">
     This browser does not support PDFs. Please <a href="{{ site.baseurl }}/assets/files/ANDREEA_POCOL_RESUME.pdf">download the PDF</a> to view it.
   </iframe>
-</div>
+</div> -->
