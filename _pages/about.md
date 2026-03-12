@@ -8,7 +8,7 @@ author_profile: true
 
 # Welcome
 
-I am a Ph.D. Candidate at the **University of Waterloo**, specializing in the intersection of Digital Image Processing and Human-Computer Interaction (HCI). My doctoral research explores the cinematic language of colour, bridging the gap between computational scale and human perception. I leverage Big Data to identify long-term aesthetic trends across thousands of films, applying digital image processing to extract and quantify pixel-level colour data. Ultimately, my work integrates Human-Computer Interaction (HCI) principles to investigate the psycho-physical impact of colour grading, decoding how these techniques are engineered to evoke specific emotional responses.
+I am a Ph.D. Candidate at the **University of Waterloo**, specializing in the intersection of Digital Image Processing and Human-Computer Interaction (HCI). I am supervised by [Lesley Istead](https://carleton.ca/hci/people/lesley-istead/) and [Craig S. Kaplan](https://isohedral.ca/). My doctoral research explores the cinematic language of colour, bridging the gap between computational scale and human perception. I leverage Big Data to identify long-term aesthetic trends across thousands of films, applying digital image processing to extract and quantify pixel-level colour data. Ultimately, my work integrates Human-Computer Interaction (HCI) principles to investigate the psycho-physical impact of colour grading, decoding how these techniques are engineered to evoke specific emotional responses.
 
 
 
