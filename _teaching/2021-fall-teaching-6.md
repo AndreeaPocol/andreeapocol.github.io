@@ -14,7 +14,7 @@ Teaching Assistant
 
 Course
 ======
-[CS 350 (Computer Graphics)](https://cs.uwaterloo.ca//current/courses/course_descriptions/cDescr/CS350)
+[CS 350 (Operating Systems)](https://cs.uwaterloo.ca//current/courses/course_descriptions/cDescr/CS350)
 
 Terms(s)
 ======
