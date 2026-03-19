@@ -2,7 +2,7 @@
 title: "Teaching experience 4"
 collection: teaching
 type: "Undergraduate"
-permalink: 2021-fall-teaching-4
+permalink: /teaching/2021-fall-teaching-4
 venue: "University of Waterloo"
 date: 2023-05-01
 location: "Waterloo, Ontario"
