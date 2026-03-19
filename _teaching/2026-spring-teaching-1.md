@@ -42,5 +42,7 @@ Topics
 
 Duties
 ======
-* Delivered live and digital course content while facilitating technical orientation and Q&A sessions
-* Moderated discussion forums and addressed student inquiries within a 24-hour window to ensure high satisfaction
+* Facilitated live technical orientation and Q&A sessions
+* Delivered live and digital course content
+* Held Drop-In sessions (office hours) twice a week over Zoom
+* Moderated discussion forums and email, addressing student inquiries within a 24-hour window to ensure high satisfaction
