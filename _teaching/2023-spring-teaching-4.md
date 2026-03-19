@@ -10,7 +10,7 @@ location: "Waterloo, Ontario"
 Role
 ======
 Teaching Assistant
-<!-- TODO: change permalink to /teaching/2023-spring-teaching-4 -->
+
 Course
 ======
 [CS 492 (Social & Ethical Implications of Computing)](https://cs.uwaterloo.ca//current/courses/course_descriptions/cDescr/CS492)
@@ -19,7 +19,7 @@ Terms(s)
 ======
 * Spring (May - Aug.) 2024
 * Winter (Jan. - Apr.) 2024
-* Spring (May - Aug.) 2023
+* Spring (May - Aug.) 2023 <!-- TODO: change permalink to /teaching/2023-spring-teaching-4 -->
 
 
 Topics
