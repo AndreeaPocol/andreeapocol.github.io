@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate"
 permalink: /teaching/2023-spring-teaching-4
 venue: "University of Waterloo"
-date: 2021-01-01
+date: 2023-05-01
 location: "Waterloo, Ontario"
 ---
 
