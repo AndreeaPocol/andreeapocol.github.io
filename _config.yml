@@ -30,7 +30,7 @@ author:
   location         : "Waterloo, Ontario"
   employer         : "University of Waterloo"
   uri              : # URL
-  email            : {{ "apocol@uwaterloo.ca" | encode_email }}
+  email            : "apocol[at]uwaterloo[dot]ca" 
 
   # Academic websites
   academia         : # URL
