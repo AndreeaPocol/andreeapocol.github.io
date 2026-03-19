@@ -2,16 +2,15 @@
 title: "Teaching experience 4"
 collection: teaching
 type: "Undergraduate"
-permalink: /teaching/2023-spring-teaching-4
+permalink: 2021-fall-teaching-4
 venue: "University of Waterloo"
 date: 2023-05-01
 location: "Waterloo, Ontario"
 ---
-
 Role
 ======
 Teaching Assistant
-
+<!-- TODO: change permalink to /teaching/2023-spring-teaching-4 -->
 Course
 ======
 [CS 492 (Social & Ethical Implications of Computing)](https://cs.uwaterloo.ca//current/courses/course_descriptions/cDescr/CS492)
