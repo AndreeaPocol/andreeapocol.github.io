@@ -33,5 +33,5 @@ Topics
 
 Duties
 ======
-* Graded assessments 
-* Provided individualized feedback to learners
+* Graded weekly assessments 
+* Provided timely and individualized feedback to learners
