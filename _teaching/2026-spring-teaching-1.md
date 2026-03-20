@@ -49,7 +49,7 @@ Duties
 * Offered extra help outside of formal office hours, e.g.:
 
 <div class="video-container">
-  <iframe src="https://youtu.be/6Yxw35mqh54" 
+  <iframe src="https://youtube.com/embed/6Yxw35mqh54" 
           frameborder="0" 
           allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
           allowfullscreen>
