@@ -46,3 +46,12 @@ Duties
 * Delivered live and digital course content
 * Held Drop-In sessions (office hours) twice a week over Zoom
 * Moderated discussion forums and email, addressing student inquiries within a 24-hour window to ensure high satisfaction
+* Offered extra help outside of formal office hours, e.g.:
+
+<div class="video-container">
+  <iframe src="https://youtu.be/6Yxw35mqh54" 
+          frameborder="0" 
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+          allowfullscreen>
+  </iframe>
+</div>
