@@ -2,7 +2,7 @@
 title: "Teaching experience 4"
 collection: teaching
 type: "Undergraduate"
-permalink: /teaching/2021-fall-teaching-4
+permalink: /teaching/2023-spring-teaching-4
 venue: "University of Waterloo"
 date: 2023-05-01
 location: "Waterloo, Ontario"
@@ -19,7 +19,7 @@ Terms(s)
 ======
 * Spring (May - Aug.) 2024
 * Winter (Jan. - Apr.) 2024
-* Spring (May - Aug.) 2023 <!-- TODO: change permalink to /teaching/2023-spring-teaching-4 -->
+* Spring (May - Aug.) 2023
 
 
 Topics
