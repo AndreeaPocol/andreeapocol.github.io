@@ -1,6 +1,6 @@
 ---
 title: "University of Waterloo News"
-excerpt: "In the Media"
+excerpt: "March 2024"
 collection: portfolio
 ---
 

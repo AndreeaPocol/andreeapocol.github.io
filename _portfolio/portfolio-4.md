@@ -1,6 +1,6 @@
 ---
 title: "Mike Farwell Show"
-excerpt: "On the Air"
+excerpt: "March 2023, March 2024"
 collection: portfolio
 ---
 
