@@ -1,7 +1,11 @@
 ---
 title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+excerpt: "In the Media"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+# ["Can you tell GenAl photos of people from real ones?"](https://uwaterloo.ca/news/media/can-you-tell-ai-generated-people-real-ones)
+## University of Waterloo
+March 2024
+
+![Engagement statistics]({{ site.baseurl }}/images/engagement-stats.jpeg){: .align-center width="400px"}
