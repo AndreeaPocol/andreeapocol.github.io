@@ -1,5 +1,5 @@
 ---
-title: "Teaching experience 5"
+title: "Teaching Assistant (CS 488)"
 collection: teaching
 type: "Undergraduate"
 permalink: /teaching/2022-fall-teaching-5

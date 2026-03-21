@@ -1,5 +1,5 @@
 ---
-title: "Teaching experience 3"
+title: "Course Supporter (Secure Coding)"
 collection: teaching
 type: "Career Accelerator"
 permalink: /teaching/2026-spring-teaching-3

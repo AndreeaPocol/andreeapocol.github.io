@@ -1,5 +1,5 @@
 ---
-title: "Teaching experience 6"
+title: "Teaching Assistant (CS 350)"
 collection: teaching
 type: "Undergraduate"
 permalink: /teaching/2021-fall-teaching-6

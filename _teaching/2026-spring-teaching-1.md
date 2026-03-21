@@ -1,5 +1,5 @@
 ---
-title: "Teaching experience 1"
+title: "Instructor (Python 1)"
 collection: teaching
 type: "Career Accelerator"
 permalink: /teaching/2026-spring-teaching-1

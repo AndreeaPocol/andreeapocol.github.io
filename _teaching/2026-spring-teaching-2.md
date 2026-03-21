@@ -1,5 +1,5 @@
 ---
-title: "Teaching experience 2"
+title: "Instructional Assistant (CS 116)"
 collection: teaching
 type: "Undergraduate"
 permalink: /teaching/2026-spring-teaching-2
