@@ -11,7 +11,7 @@ I am a Ph.D. Candidate at the **University of Waterloo**, specializing in the in
 
 
 ### Research Interests
-My thesis research aims to analyze the use of colour in film. I am particularly interested in:
+My thesis research is on Computational Cinematography and Data-Driven Visual Analysis. I am particularly interested in:
 * **Big Data:** Mining large-scale datasets to reveal longitudinal patterns in visual storytelling.
 * **Digital image processing:** Developing custom pipelines for frame-by-frame, pixel-based analysis of movie frames for cinematographic colour palettes.
 * **Human-computer interaction:** Analyzing the intersection of colour theory and human psychology to understand how specific grading choices modulate viewer affect.
