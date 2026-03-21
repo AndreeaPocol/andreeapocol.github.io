@@ -1,9 +1,11 @@
 ---
-title: "Portfolio item number 2"
+title: "University of Waterloo"
 excerpt: "In the Media"
 collection: portfolio
 ---
 
-# ["Four of these faces were produced entirely by AI... can YOU tell who’s real? Nearly 40% of people got it wrong in new study"](https://www.dailymail.co.uk/sciencetech/article-13170099/can-tell-real-ai-generated-faces.html)
-## Daily Mail
+# ["International Women’s Day: Celebrating five Cheriton School of Computer Science researchers"](https://uwaterloo.ca/computer-science/news/iwd-celebrating-five-cheriton-school-of-computer-science-researchers)
+## University of Waterloo
 March 2024
+
+<div class="iframely-embed"><div class="iframely-responsive" style="padding-bottom: 40%; padding-top: 120px;"><a href="https://uwaterloo.ca/computer-science/news/iwd-celebrating-five-cheriton-school-of-computer-science-researchers" data-iframely-url="https://iframely.net/VVJyNxap?theme=dark"></a></div></div><script async src="https://iframely.net/embed.js"></script>

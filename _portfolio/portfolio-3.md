@@ -1,12 +1,11 @@
 ---
-title: "Portfolio item number 3"
-excerpt: "On the Air"
+title: "Daily Mail"
+excerpt: "In the Media"
 collection: portfolio
 ---
 
-# Features on the Mike Farwell Show (Live Radio)
-## Mike Farwell Show, CityNews
-March 2023, March 2024
-- Tuesday March 14th, 2023 [1:25:15]
-![Tuesday March 14]({{ site.baseurl }}/images/radio.jpg){: .align-center width="400px"}
-- Friday March 8th, 2024 [0:18:50]
+# ["Four of these faces were produced entirely by AI... can YOU tell who’s real? Nearly 40% of people got it wrong in new study"](https://www.dailymail.co.uk/sciencetech/article-13170099/can-tell-real-ai-generated-faces.html)
+## Daily Mail
+March 2024
+
+<div class="iframely-embed"><div class="iframely-responsive" style="padding-bottom: 56.25%; padding-top: 120px;"><a href="https://www.dailymail.co.uk/sciencetech/article-13170099/can-tell-real-ai-generated-faces.html" data-iframely-url="https://iframely.net/jdedK8FE?theme=dark"></a></div></div><script async src="https://iframely.net/embed.js"></script>

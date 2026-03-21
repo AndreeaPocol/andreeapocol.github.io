@@ -1,9 +1,12 @@
 ---
-title: "Portfolio item number 4"
-excerpt: "In the Media"
+title: "Mike Farwell Show"
+excerpt: "On the Air"
 collection: portfolio
 ---
 
-# ["Computer science meets cinema: University of Waterloo researchers closely analyze colour in films"](https://www.ctvnews.ca/kitchener/article/computer-science-meets-cinema-university-of-waterloo-researchers-closely-analyze-colour-in-films/)
-## CTV News
-March 2023
+# Features on the Mike Farwell Show (Live Radio)
+## Mike Farwell Show, CityNews
+March 2023, March 2024
+- Tuesday March 14th, 2023 [1:25:15]
+![Tuesday March 14]({{ site.baseurl }}/images/radio.jpg){: .align-center width="400px"}
+- Friday March 8th, 2024 [0:18:50]
