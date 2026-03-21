@@ -8,4 +8,4 @@ collection: portfolio
 ## ACM Tech News
 March 2023
 
-![ACM]({{ site.baseurl }}/images/acm-card.png){: .align-center width="400px"}
+![ACM]({{ site.baseurl }}/images/acm-card.png){: .align-center width="700px"}
