@@ -4,7 +4,6 @@ excerpt: "March 2023, March 2024"
 collection: portfolio
 ---
 
-# Features on the Mike Farwell Show (Live Radio)
 ## Mike Farwell Show, CityNews
 March 2023, March 2024
 - Tuesday March 14th, 2023 [1:25:15]
