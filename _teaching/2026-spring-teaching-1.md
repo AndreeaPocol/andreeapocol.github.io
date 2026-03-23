@@ -6,6 +6,7 @@ permalink: /teaching/2026-spring-teaching-1
 venue: "WatSPEED"
 date: 2026-02-02
 location: "Waterloo, Ontario"
+excerpt: ""
 ---
 
 Role
