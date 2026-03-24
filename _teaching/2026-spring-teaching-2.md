@@ -6,6 +6,7 @@ permalink: /teaching/2026-spring-teaching-2
 venue: "University of Waterloo"
 date: 2026-01-01
 location: "Waterloo, Ontario"
+excerpt: ""
 ---
 
 Role

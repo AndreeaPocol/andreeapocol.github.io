@@ -6,6 +6,7 @@ permalink: /teaching/2021-fall-teaching-6
 venue: "University of Waterloo"
 date: 2021-09-01
 location: "Waterloo, Ontario"
+excerpt: ""
 ---
 
 Role

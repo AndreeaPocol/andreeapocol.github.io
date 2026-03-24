@@ -6,6 +6,7 @@ permalink: /teaching/2022-fall-teaching-5
 venue: "University of Waterloo"
 date: 2022-09-01
 location: "Waterloo, Ontario"
+excerpt: ""
 ---
 
 Role

@@ -6,6 +6,7 @@ permalink: /teaching/2023-spring-teaching-4
 venue: "University of Waterloo"
 date: 2023-05-01
 location: "Waterloo, Ontario"
+excerpt: ""
 ---
 
 Role
