@@ -47,3 +47,13 @@ Topics
 Duties
 ======
 * Held office hours
+
+Evaluations
+======
+![Winter 2023]({{ site.baseurl }}/images/winter-2023.png){: .align-left width="700px"}
+![Winter 2023]({{ site.baseurl }}/images/winter-2023-2.png){: .align-left width="700px"}
+![Fall 2023]({{ site.baseurl }}/images/fall-2023.png){: .align-left width="700px"}
+![Fall 2024]({{ site.baseurl }}/images/fall-2024.png){: .align-left width="700px"}
+![Winter 2025]({{ site.baseurl }}/images/winter-2025.png){: .align-left width="700px"}
+![Spring 2025]({{ site.baseurl }}/images/spring-2025.png){: .align-left width="700px"}
+![Fall 2025]({{ site.baseurl }}/images/fall-2025.png){: .align-left width="700px"}
