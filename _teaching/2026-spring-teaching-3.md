@@ -4,7 +4,7 @@ collection: teaching
 type: "Career Accelerator"
 permalink: /teaching/2026-spring-teaching-3
 venue: "WatSPEED"
-date: 2025-11-01
+date: 2024-11-01
 location: "Waterloo, Ontario"
 excerpt: ""
 ---
@@ -19,7 +19,7 @@ Course
 
 Terms(s)
 ======
-Nov. 2025 - Feb. 2026
+Nov. 2024 - Feb. 2025
 
 Language(s)
 ======
