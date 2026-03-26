@@ -24,7 +24,7 @@ Work Experience
   * Employer: WatSPEED
   * Duties: Graded assessments and provided individualized feedback to learners
 
-* Fall 2022-Spring 2026: Teaching/Instructional Assistant
+* Fall 2022-Spring 2026: Teaching Assistant/Instructional Apprentice
   * Employer: University of Waterloo
   * Duties: Held office hours, answered student questions, and marked assignments for Computer Science courses
 

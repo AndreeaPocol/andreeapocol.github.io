@@ -1,5 +1,5 @@
 ---
-title: "Instructional Assistant (CS 116)"
+title: "Instructional Apprentice (CS 116)"
 collection: teaching
 type: "Undergraduate"
 permalink: /teaching/2026-spring-teaching-2
@@ -11,7 +11,7 @@ excerpt: ""
 
 Role
 ======
-Instructional Assistant
+Instructional Apprentice
 
 Course
 ======

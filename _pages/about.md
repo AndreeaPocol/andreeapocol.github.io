@@ -31,10 +31,10 @@ My thesis research is on Computational Cinematography and Data-Driven Visual Ana
 As I approach the completion of my Ph.D., I am actively seeking academic faculty positions or industrial research roles!
 
 <div style="text-align: center; margin-top: 20px;">
-  <iframe src="{{ site.baseurl }}/files/ANDREEA_POCOL_RESUME.pdf" 
+  <iframe src="{{ site.baseurl }}/files/ANDREEA_POCOL_RESUME_PUBLIC.pdf" 
           width="100%" 
           height="800px" 
           style="border: none;">
-    This browser does not support PDFs. Please <a href="{{ site.baseurl }}/assets/files/ANDREEA_POCOL_RESUME.pdf">download the PDF</a> to view it.
+    This browser does not support PDFs. Please <a href="{{ site.baseurl }}/assets/files/ANDREEA_POCOL_RESUME_PUBLIC.pdf">download the PDF</a> to view it.
   </iframe>
 </div>
