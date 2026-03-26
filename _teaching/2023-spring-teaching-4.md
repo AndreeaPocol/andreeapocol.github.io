@@ -41,5 +41,8 @@ Focus on fostering professional responsibility and critical thought about the so
 Duties
 ======
 * Moderated in-class discussions and debates
+* Co-wrote script to automate attendance-tracking using Optical Character Recognition
 * Marked essays
+
+![Winter 2023]({{ site.baseurl }}/images/rubric.png){: .align-left width="700px"}
 
