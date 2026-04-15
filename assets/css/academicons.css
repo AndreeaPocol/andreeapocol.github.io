@@ -580,3 +580,11 @@ border-radius: .1em;
   top: 0;
   z-index: 9999;
 }
+
+/* If you use a dark theme, use this version instead: */
+[data-theme='dark'] .masthead, [data-theme='dark'] .navigation {
+  background: rgba(15, 15, 15, 0.7) !important;
+  backdrop-filter: blur(12px) saturate(180%);
+  -webkit-backdrop-filter: blur(12px) saturate(180%);
+  border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+}
