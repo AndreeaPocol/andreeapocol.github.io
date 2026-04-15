@@ -570,11 +570,13 @@ border-radius: .1em;
   color: #fff;
 }
 
-.nav-bar {
-  background: rgba(255, 255, 255, 0.7) !important;
-  backdrop-filter: blur(10px);
-  -webkit-backdrop-filter: blur(10px);
+/* --- Sleek Glassmorphism Navigation --- */
+.masthead, .navigation {
+  background: rgba(255, 255, 255, 0.7) !important; /* Translucent white */
+  backdrop-filter: blur(12px) saturate(180%);    /* The "Frosted" effect */
+  -webkit-backdrop-filter: blur(12px) saturate(180%); /* Safari support */
+  border-bottom: 1px solid rgba(255, 255, 255, 0.3); /* Subtle edge */
   position: sticky;
   top: 0;
-  z-index: 1000;
+  z-index: 9999;
 }
