@@ -569,3 +569,12 @@ border-radius: .1em;
 .ai-inverse {
   color: #fff;
 }
+
+.nav-bar {
+  background: rgba(255, 255, 255, 0.7) !important;
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+}
