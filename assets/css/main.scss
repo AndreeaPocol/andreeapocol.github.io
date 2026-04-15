@@ -41,29 +41,3 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
-
-/* --- CUSTOM MODERN STYLES --- */
-
-// Use the existing fade from your screenshot
-.modern-fade-in {
-  animation: fa-fade 1.2s ease-out;
-  animation-fill-mode: forwards;
-}
-
-// Sleek hover effect for project cards or links
-.project-item {
-  transition: transform 0.3s ease, box-shadow 0.3s ease;
-  
-  &:hover {
-    transform: translateY(-5px);
-    // Uses the "beat-fade" keyframe from your screenshot!
-    animation: fa-beat-fade 1s infinite;
-  }
-}
-
-// Optional: Glassmorphism for your navigation
-.masthead {
-  background: rgba(255, 255, 255, 0.8) !important;
-  backdrop-filter: blur(8px);
-  -webkit-backdrop-filter: blur(8px);
-}
