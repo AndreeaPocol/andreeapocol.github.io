@@ -6,7 +6,7 @@ permalink: /
 author_profile: true
 ---
 
-I am a Ph.D. Candidate at the **University of Waterloo**, specializing in the intersection of Digital Image Processing and Human-Computer Interaction (HCI). I am supervised by [Lesley Istead](https://carleton.ca/hci/people/lesley-istead/) and [Craig S. Kaplan](https://isohedral.ca/). My doctoral research explores the cinematic language of colour, bridging the gap between computational scale and human perception. I leverage Big Data to identify long-term aesthetic trends across thousands of films, applying digital image processing to extract and quantify pixel-level colour data. Ultimately, my work integrates Human-Computer Interaction (HCI) principles to investigate the psycho-physical impact of colour grading, decoding how these techniques are engineered to evoke specific emotional responses.
+I am a Ph.D. Candidate at the **University of Waterloo**, specializing in the intersection of Digital Image Processing and Human-Computer Interaction (HCI). I am supervised by [Lesley Istead](https://carleton.ca/hci/people/lesley-istead/) and [Craig S. Kaplan](https://isohedral.ca/). My doctoral research explores the cinematic language of colour, bridging the gap between computational scale and human perception. I leverage Big Data to identify long-term aesthetic trends across tens of thousands of films, applying digital image processing to extract and quantify pixel-level colour data. Ultimately, my work integrates Human-Computer Interaction (HCI) principles to investigate the psycho-physical impact of colour grading, decoding how these techniques are engineered to evoke specific emotional responses.
 
 
 
@@ -14,7 +14,7 @@ I am a Ph.D. Candidate at the **University of Waterloo**, specializing in the in
 My thesis research is on Computational Cinematography and Data-Driven Visual Analysis. I am particularly interested in:
 * **Big Data:** Mining large-scale datasets to reveal longitudinal patterns in visual storytelling.
 * **Digital image processing:** Developing custom pipelines for frame-by-frame, pixel-based analysis of movie frames for cinematographic colour palettes.
-* **Human-computer interaction:** Analyzing the intersection of colour theory and human psychology to understand how specific grading choices modulate viewer affect.
+* **Human-computer interaction:** Analyzing the intersection of colour theory and human psychology to understand how specific grading choices modulate viewer emotions.
 
 
 ---
