@@ -23,7 +23,7 @@ repository               : "AndreeaPocol/andreeapocol.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.jpg"
+  avatar           : "profile-pic.jpg"
   name             : "Andreea Pocol"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D. Candidate at University of Waterloo | Instructor | Instructional Apprentice"
