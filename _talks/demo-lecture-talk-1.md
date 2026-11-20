@@ -1,0 +1,20 @@
+---
+title: "Demo Lecture"
+collection: talks
+type: "Talk"
+permalink: /teaching/demo
+venue: "Microsoft Teams"
+date: N/A
+location: "Online"
+---
+
+
+Demo Lecture: Sets in Python
+======
+<div class="video-container">
+  <iframe src="https://youtu.be/pXuZH-kFccE"
+          frameborder="0"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+          allowfullscreen>
+  </iframe>
+</div>
