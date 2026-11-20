@@ -1,6 +1,6 @@
 var addressPoints = [
   [
-    "Demo Lecture<br />Microsoft Teams; Online",
+    "Talk 2<br />Zoom; Online",
     43.5904719,
     3.8595132
   ],
@@ -10,7 +10,7 @@ var addressPoints = [
     3.8595132
   ],
   [
-    "Talk 2<br />Zoom; Online",
+    "Demo Lecture<br />Microsoft Teams; Online",
     43.5904719,
     3.8595132
   ]
